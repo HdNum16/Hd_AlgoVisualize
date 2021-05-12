@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AlgoVisualize</string>
+
+    <string-array name="SortingAlgo">
+        <item>Bubble Sort</item>
+        <item>Merge Sort</item>
+        <item>Quick Sort</item>
+    </string-array>
+
+    <string-array name="PathFindingAlgo">
+        <item>Dijsktra</item>
+        <item>A star</item>
+        <item>Greedy Best first</item>
+        <item>Breadth first</item>
+        <item>Depth first</item>
+    </string-array>
+</resources>
